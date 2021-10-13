@@ -1,2 +1,2 @@
 # Daily-expenses
-A tool for accurate storage of daily expenses
+💲 A tool for accurate storage of daily expenses 💲
